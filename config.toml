@@ -1,0 +1,5 @@
+baseURL = "http://localhost/"
+languageCode = "de-de"
+title = "3d Druck - meine Aufzeichnungen "
+
+theme = "hugo-lithium-theme"
