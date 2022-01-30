@@ -20,8 +20,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### UBL Einrichten
 Temperatur setzen auf 200° / 60°
-M109 S60
-M140 S200
+M109 S190
+M140 S60
 
 G28
 G29 P1
